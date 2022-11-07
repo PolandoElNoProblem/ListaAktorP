@@ -1,0 +1,12 @@
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\bin\Debug\lufenMachen.exe.config
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\bin\Debug\lufenMachen.exe
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\bin\Debug\lufenMachen.pdb
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.csproj.AssemblyReference.cache
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.csproj.SuggestedBindingRedirects.cache
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.Properties.Resources.resources
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.csproj.GenerateResource.cache
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.csproj.CoreCompileInputs.cache
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.exe
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.pdb
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.LISTA.resources
+C:\Users\dolezinski.jan\source\repos\lufenMachen\lufenMachen\obj\Debug\lufenMachen.UserControl1.resources
